@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.wrapper{
+    width: 210px;
+    height: 842px;
+    background-color: #233A5F;
+    color: #FFFFFF;
+}
+.wrapper-header{
+    width: 186px;
+    padding: 31px 12px 63px 12px;
+    font-size: 10px;
+}
+h1{
+    font-size: 18px;
+}
+h2{
+    font-size: 12px;
+    padding: 0px;
+}
+.information{
+    background-color: #E5E5E5;
+    color: black;
+    border-radius: 10%;
+}
+.footer-links{
+    display: flex;
+    margin-left: -20px;
+    padding: 8px;
+}
+.skills ul{
+    margin-left: -20px;
+}
+.hobbies ul{
+    margin-left: -20px;
+}
+.header-name h1, p{
+    margin-bottom: 4px;
+    margin-top: 0px;
+}
+.header-inf{
+    margin-top: 20px;
+}
+.flex{
+    display: flex;
+    margin: 0 auto;
+    width: 595px;
+}
+.main{
+    width: 385px;
+    height: 842px;
+}
+.content{
+    width: 321px;
+    height: 754px;
+    padding: 32px 32px 56px 32px;
+}
+.content p{
+    font-size: 8px;
+}
+.img-main{
+    display: flex;
+    justify-content: space-between;
+    width: 321px;
+    margin-top: 12px;
+}
+.experience-main img{
+    width: 32px;
+    height: 32px;
+}
+.img-main p{
+    margin-top: -2px;
+}
+.years{
+    display: flex;
+    justify-content: space-between;
+}
+.honor p{
+    margin: 4px;
+}
+.text-educatiaon{
+    width: 243px;
+}
+.experience-main{
+    display: flex;
+    justify-content: space-between;
+    width: 321px;
+
+}
+.ul{
+    margin-top: -24px;
+    padding: 0;
+}
+.ul p{
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+.text-educatiaon .bachelor{
+    font-size: 8px;
+    font-weight: bold 600;
+}
+.informtics{
+    font-size: 10px;
+}
+.footer-links ul .Linkedin{
+    list-style-image: url(../img/simple-icons_linkedin.png);
+}
+.footer-links ul .Github{
+    list-style-image: url(../img/simple-icons_github.png);
+}
+.footer-links ul .Website{
+    list-style-image: url(../img/feather_external-link.png);
+}
+.footer-links ul .Dribbble{
+    list-style-image: url(../img/simple-icons_dribbble.png);
+}
+.footer-links ul .Instagram{
+    list-style-image: url(../img/simple-icons_instagram.png);
+}
+hr{
+    background-color: #233A5F;
+    height: 2px;
+    width: 32px;
+    border-radius: 4px;
+    
+    margin: 4px 0;
+}
+.text-educatiaon ul{
+    list-style-image: url(../img/Ellipse\ 1.png);
+}
+.experience ul{
+    list-style-image: url(../img/Ellipse\ 1.png);
+}
